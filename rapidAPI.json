@@ -1,0 +1,35 @@
+// GeoDB Autocomplete für Reiseziel
+new autoComplete({
+  selector: "#destination",
+  placeHolder: "Reiseziel eingeben",
+  data: {
+    src: async (query) => {
+      try {
+        const response = await fetch(
+          `https://wft-geo-db.p.rapidapi.com/v1/geo/cities?namePrefix=${query}&limit=10&types=CITY`,
+          {
+            method: "GET",
+            headers: {
+              "X-RapidAPI-Key": "37d2402480msh172ac30d2a72a91p14f8b5jsn540ee6229d1a",
+              "X-RapidAPI-Host": "wft-geo-db.p.rapidapi.com"
+            }
+          }
+        );
+        const data = await response.json();
+        return data.data.map((city) => `${city.city}, ${city.countryCode}`);
+      } catch (error) {
+        console.error("Fehler beim GeoDB Abruf:", error);
+        return [];
+      }
+    },
+    cache: false
+  },
+  resultItem: { highlight: true },
+  events: {
+    input: {
+      selection: (event) => {
+        document.querySelector("#destination").value = event.detail.selection.value;
+      }
+    }
+  }
+});
