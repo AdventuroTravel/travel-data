@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Countdown</title>
+<style>
+  body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0; padding: 0;
+    display: flex; justify-content: center; align-items: center;
+    height: 100vh;
+    background-color: #fff;
+    color: #523D1F;
+    font-size: 2rem;
+  }
+  #countdown {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+<div id="countdown">Lädt...</div>
+
+<script>
+  // Setze hier das Enddatum (Format: YYYY-MM-DDTHH:MM:SS)
+  const targetDate = new Date("2025-12-31T23:59:59").getTime();
+
+  function updateCountdown() {
+    const now = new Date().getTime();
+    const distance = targetDate - now;
+
+    if (distance < 0) {
+      document.getElementById("countdown").innerHTML = "Zeit abgelaufen!";
+      clearInterval(interval);
+      return;
+    }
+
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000*60*60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000*60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    document.getElementById("countdown").innerHTML =
+      days + " Tage " + hours + " Std. " + minutes + " Min. " + seconds + " Sek.";
+  }
+
+  updateCountdown();
+  const interval = setInterval(updateCountdown, 1000);
+</script>
+</body>
+</html>
