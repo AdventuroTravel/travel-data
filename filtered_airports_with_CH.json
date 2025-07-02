@@ -1,0 +1,1622 @@
+[
+  {
+    "name": "Antwerp International Airport (Deurne)",
+    "city": "Antwerp",
+    "iata": "ANR",
+    "country": "BE"
+  },
+  {
+    "name": "Brussels Airport",
+    "city": "Zaventem",
+    "iata": "BRU",
+    "country": "BE"
+  },
+  {
+    "name": "Brussels South Charleroi Airport",
+    "city": "Charleroi",
+    "iata": "CRL",
+    "country": "BE"
+  },
+  {
+    "name": "Ghent/Industry Zone Heliport",
+    "city": "Gent",
+    "iata": "GNE",
+    "country": "BE"
+  },
+  {
+    "name": "Flanders International Airport Kortrijk-Wevelgem",
+    "city": "Wevelgem",
+    "iata": "KJK",
+    "country": "BE"
+  },
+  {
+    "name": "Liège Airport",
+    "city": "Grâce-Hollogne",
+    "iata": "LGG",
+    "country": "BE"
+  },
+  {
+    "name": "Oostende-Brugge International Airport",
+    "city": "Oostende",
+    "iata": "OST",
+    "country": "BE"
+  },
+  {
+    "name": "Oostmalle Airfield",
+    "city": "Zoersel",
+    "iata": "OBL",
+    "country": "BE"
+  },
+  {
+    "name": "Leipzig–Altenburg Airport",
+    "city": "Nobitz",
+    "iata": "AOC",
+    "country": "DE"
+  },
+  {
+    "name": "Heringsdorf Airport",
+    "city": "Zirchow",
+    "iata": "HDF",
+    "country": "DE"
+  },
+  {
+    "name": "Riesa-Göhlis Airport",
+    "city": "Riesa",
+    "iata": "IES",
+    "country": "DE"
+  },
+  {
+    "name": "Müritz Airpark",
+    "city": "Lärz",
+    "iata": "REB",
+    "country": "DE"
+  },
+  {
+    "name": "Cochstedt Airport",
+    "city": "Hecklingen",
+    "iata": "CSO",
+    "country": "DE"
+  },
+  {
+    "name": "Stralsund-Barth Airport",
+    "city": "Barth",
+    "iata": "BBH",
+    "country": "DE"
+  },
+  {
+    "name": "Neubrandenburg Trollenhagen Airport",
+    "city": "Trollenhagen",
+    "iata": "FNB",
+    "country": "DE"
+  },
+  {
+    "name": "Rügen Airport",
+    "city": "Dreschvitz",
+    "iata": "GTI",
+    "country": "DE"
+  },
+  {
+    "name": "Köthen Airport",
+    "city": "Köthen (Anhalt)",
+    "iata": "KOQ",
+    "country": "DE"
+  },
+  {
+    "name": "Peenemünde Airport",
+    "city": "Peenemünde",
+    "iata": "PEF",
+    "country": "DE"
+  },
+  {
+    "name": "Berlin Brandenburg Airport",
+    "city": "Berlin",
+    "iata": "BER",
+    "country": "DE"
+  },
+  {
+    "name": "Dresden Airport",
+    "city": "Dresden",
+    "iata": "DRS",
+    "country": "DE"
+  },
+  {
+    "name": "Erfurt-Weimar Airport",
+    "city": "Erfurt",
+    "iata": "ERF",
+    "country": "DE"
+  },
+  {
+    "name": "Frankfurt Airport",
+    "city": "Frankfurt am Main",
+    "iata": "FRA",
+    "country": "DE"
+  },
+  {
+    "name": "Münster Osnabrück Airport",
+    "city": "Greven",
+    "iata": "FMO",
+    "country": "DE"
+  },
+  {
+    "name": "Hamburg Helmut Schmidt Airport",
+    "city": "Hamburg",
+    "iata": "HAM",
+    "country": "DE"
+  },
+  {
+    "name": "Cologne Bonn Airport",
+    "city": "Köln (Cologne)",
+    "iata": "CGN",
+    "country": "DE"
+  },
+  {
+    "name": "Düsseldorf Airport",
+    "city": "Düsseldorf",
+    "iata": "DUS",
+    "country": "DE"
+  },
+  {
+    "name": "Munich Airport",
+    "city": "Munich",
+    "iata": "MUC",
+    "country": "DE"
+  },
+  {
+    "name": "Nuremberg Airport",
+    "city": "Nuremberg",
+    "iata": "NUE",
+    "country": "DE"
+  },
+  {
+    "name": "Leipzig/Halle Airport",
+    "city": "Schkeuditz",
+    "iata": "LEJ",
+    "country": "DE"
+  },
+  {
+    "name": "Saarbrücken Airport",
+    "city": "Saarbrücken",
+    "iata": "SCN",
+    "country": "DE"
+  },
+  {
+    "name": "Stuttgart Airport",
+    "city": "Stuttgart",
+    "iata": "STR",
+    "country": "DE"
+  },
+  {
+    "name": "Hannover Airport",
+    "city": "Hannover",
+    "iata": "HAJ",
+    "country": "DE"
+  },
+  {
+    "name": "Bremen Airport",
+    "city": "Bremen",
+    "iata": "BRE",
+    "country": "DE"
+  },
+  {
+    "name": "Frankfurt-Hahn Airport",
+    "city": "Frankfurt am Main (Lautzenhausen)",
+    "iata": "HHN",
+    "country": "DE"
+  },
+  {
+    "name": "Mannheim-City Airport",
+    "city": "Mannheim",
+    "iata": "MHG",
+    "country": "DE"
+  },
+  {
+    "name": "Eisenach-Kindel Airport",
+    "city": "Hörselberg-Hainich",
+    "iata": "EIB",
+    "country": "DE"
+  },
+  {
+    "name": "Ludwigshafen Accident Hospital Heliport",
+    "city": "Ludwigshafen am Rhein",
+    "iata": "ZOE",
+    "country": "DE"
+  },
+  {
+    "name": "Siegerland Airport",
+    "city": "Burbach",
+    "iata": "SGE",
+    "country": "DE"
+  },
+  {
+    "name": "Itzehoe Hungriger Wolf Airfield",
+    "city": "Hohenlockstedt",
+    "iata": "IZE",
+    "country": "DE"
+  },
+  {
+    "name": "Hamburg-Finkenwerder Airport",
+    "city": "Hamburg",
+    "iata": "XFW",
+    "country": "DE"
+  },
+  {
+    "name": "Kiel-Holtenau Airport",
+    "city": "Kiel",
+    "iata": "KEL",
+    "country": "DE"
+  },
+  {
+    "name": "Lübeck Blankensee Airport",
+    "city": "Lübeck",
+    "iata": "LBC",
+    "country": "DE"
+  },
+  {
+    "name": "Neumünster Airport",
+    "city": "Neumünster",
+    "iata": "EUM",
+    "country": "DE"
+  },
+  {
+    "name": "Memmingen Allgau Airport",
+    "city": "Memmingen",
+    "iata": "FMM",
+    "country": "DE"
+  },
+  {
+    "name": "Aachen-Merzbrück Airport",
+    "city": "Aachen",
+    "iata": "AAH",
+    "country": "DE"
+  },
+  {
+    "name": "Essen-Mülheim Airport",
+    "city": "Essen",
+    "iata": "ESS",
+    "country": "DE"
+  },
+  {
+    "name": "Bielefeld Airport",
+    "city": "Bielefeld",
+    "iata": "BFE",
+    "country": "DE"
+  },
+  {
+    "name": "Mönchengladbach Airport",
+    "city": "Mönchengladbach",
+    "iata": "MGL",
+    "country": "DE"
+  },
+  {
+    "name": "Paderborn Lippstadt Airport",
+    "city": "Büren",
+    "iata": "PAD",
+    "country": "DE"
+  },
+  {
+    "name": "Weeze Airport",
+    "city": "Weeze",
+    "iata": "NRN",
+    "country": "DE"
+  },
+  {
+    "name": "Dortmund Airport",
+    "city": "Dortmund",
+    "iata": "DTM",
+    "country": "DE"
+  },
+  {
+    "name": "Augsburg Airport",
+    "city": "Augsburg",
+    "iata": "AGB",
+    "country": "DE"
+  },
+  {
+    "name": "Oberpfaffenhofen Airport",
+    "city": "Weßling",
+    "iata": "OBF",
+    "country": "DE"
+  },
+  {
+    "name": "Straubing Airport",
+    "city": "Atting",
+    "iata": "RBM",
+    "country": "DE"
+  },
+  {
+    "name": "Friedrichshafen Airport",
+    "city": "Friedrichshafen",
+    "iata": "FDH",
+    "country": "DE"
+  },
+  {
+    "name": "Bayreuth Airport",
+    "city": "Bindlach",
+    "iata": "BYU",
+    "country": "DE"
+  },
+  {
+    "name": "Burg Feuerstein Airport",
+    "city": "Ebermannstadt",
+    "iata": "URD",
+    "country": "DE"
+  },
+  {
+    "name": "Giebelstadt Airport",
+    "city": "Giebelstadt",
+    "iata": "GHF",
+    "country": "DE"
+  },
+  {
+    "name": "Hof-Plauen Airport",
+    "city": "Hof",
+    "iata": "HOQ",
+    "country": "DE"
+  },
+  {
+    "name": "Bitburg Airport",
+    "city": "Bitburg",
+    "iata": "BBJ",
+    "country": "DE"
+  },
+  {
+    "name": "Zweibrücken Airport",
+    "city": "Zweibrücken",
+    "iata": "ZQW",
+    "country": "DE"
+  },
+  {
+    "name": "Karlsruhe Baden-Baden Airport",
+    "city": "Rheinmünster",
+    "iata": "FKB",
+    "country": "DE"
+  },
+  {
+    "name": "Lahr Airport",
+    "city": "Lahr/Schwarzwald",
+    "iata": "LHA",
+    "country": "DE"
+  },
+  {
+    "name": "Braunschweig-Wolfsburg Airport",
+    "city": "Braunschweig",
+    "iata": "BWE",
+    "country": "DE"
+  },
+  {
+    "name": "Kassel Airport",
+    "city": "Calden",
+    "iata": "KSF",
+    "country": "DE"
+  },
+  {
+    "name": "Emden Airport",
+    "city": "Emden",
+    "iata": "EME",
+    "country": "DE"
+  },
+  {
+    "name": "Wangerooge Airport",
+    "city": "Wangerooge",
+    "iata": "AGE",
+    "country": "DE"
+  },
+  {
+    "name": "JadeWeser Airport",
+    "city": "Wilhelmshaven",
+    "iata": "WVN",
+    "country": "DE"
+  },
+  {
+    "name": "Juist Airport",
+    "city": "Juist",
+    "iata": "JUI",
+    "country": "DE"
+  },
+  {
+    "name": "Langeoog Airport",
+    "city": "Langeoog",
+    "iata": "LGO",
+    "country": "DE"
+  },
+  {
+    "name": "Borkum Airport",
+    "city": "Borkum",
+    "iata": "BMK",
+    "country": "DE"
+  },
+  {
+    "name": "Norden-Norddeich Airport",
+    "city": "Norddeich",
+    "iata": "NOD",
+    "country": "DE"
+  },
+  {
+    "name": "Varrelbusch Airfield",
+    "city": "Cloppenburg",
+    "iata": "VAC",
+    "country": "DE"
+  },
+  {
+    "name": "Norderney Airport",
+    "city": "Norderney",
+    "iata": "NRD",
+    "country": "DE"
+  },
+  {
+    "name": "Baltrum Airport",
+    "city": "Baltrum",
+    "iata": "BMR",
+    "country": "DE"
+  },
+  {
+    "name": "Heide-Büsum Airport",
+    "city": "Oesterdeichstrich",
+    "iata": "HEI",
+    "country": "DE"
+  },
+  {
+    "name": "Flensburg-Schäferhaus Airport",
+    "city": "Flensburg",
+    "iata": "FLF",
+    "country": "DE"
+  },
+  {
+    "name": "Helgoland-Düne Airport",
+    "city": "Helgoland",
+    "iata": "HGL",
+    "country": "DE"
+  },
+  {
+    "name": "Husum-Schwesing Airport",
+    "city": "Husum",
+    "iata": "QHU",
+    "country": "DE"
+  },
+  {
+    "name": "Sankt Peter-Ording Airport",
+    "city": "Sankt Peter-Ording",
+    "iata": "PSH",
+    "country": "DE"
+  },
+  {
+    "name": "Westerland Sylt Airport",
+    "city": "Sylt",
+    "iata": "GWT",
+    "country": "DE"
+  },
+  {
+    "name": "Wyk auf Föhr Airport",
+    "city": "Wyk auf Föhr",
+    "iata": "OHR",
+    "country": "DE"
+  },
+  {
+    "name": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "iata": "AMS",
+    "country": "NL"
+  },
+  {
+    "name": "Maastricht Aachen Airport",
+    "city": "Maastricht",
+    "iata": "MST",
+    "country": "NL"
+  },
+  {
+    "name": "Eindhoven Airport",
+    "city": "Eindhoven",
+    "iata": "EIN",
+    "country": "NL"
+  },
+  {
+    "name": "Groningen Airport Eelde",
+    "city": "Groningen",
+    "iata": "GRQ",
+    "country": "NL"
+  },
+  {
+    "name": "Gilze Rijen Air Base",
+    "city": "Rijen",
+    "iata": "GLZ",
+    "country": "NL"
+  },
+  {
+    "name": "De Kooy Airfield / Den Helder Naval Air Station",
+    "city": "Den Helder",
+    "iata": "DHR",
+    "country": "NL"
+  },
+  {
+    "name": "Lelystad Airport",
+    "city": "Lelystad",
+    "iata": "LEY",
+    "country": "NL"
+  },
+  {
+    "name": "Leeuwarden Air Base",
+    "city": "Leeuwarden",
+    "iata": "LWR",
+    "country": "NL"
+  },
+  {
+    "name": "Rotterdam The Hague Airport",
+    "city": "Rotterdam",
+    "iata": "RTM",
+    "country": "NL"
+  },
+  {
+    "name": "Twente Airport",
+    "city": "Enschede",
+    "iata": "ENS",
+    "country": "NL"
+  },
+  {
+    "name": "Volkel Air Base",
+    "city": "Uden",
+    "iata": "UDE",
+    "country": "NL"
+  },
+  {
+    "name": "Woensdrecht Air Base",
+    "city": "Hoogerheide",
+    "iata": "WOE",
+    "country": "NL"
+  },
+  {
+    "name": "Bydgoszcz Ignacy Jan Paderewski Airport",
+    "city": "Bydgoszcz",
+    "iata": "BZG",
+    "country": "PL"
+  },
+  {
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "city": "Gdańsk",
+    "iata": "GDN",
+    "country": "PL"
+  },
+  {
+    "name": "Kraków John Paul II International Airport",
+    "city": "Balice",
+    "iata": "KRK",
+    "country": "PL"
+  },
+  {
+    "name": "Katowice Wojciech Korfanty International Airport",
+    "city": "Katowice",
+    "iata": "KTW",
+    "country": "PL"
+  },
+  {
+    "name": "Lublin Airport",
+    "city": "Lublin",
+    "iata": "LUZ",
+    "country": "PL"
+  },
+  {
+    "name": "Łódź Władysław Reymont Airport",
+    "city": "Łódź",
+    "iata": "LCJ",
+    "country": "PL"
+  },
+  {
+    "name": "Modlin Airport",
+    "city": "Nowy Dwór Mazowiecki",
+    "iata": "WMI",
+    "country": "PL"
+  },
+  {
+    "name": "Poznań-Ławica Airport",
+    "city": "Poznań",
+    "iata": "POZ",
+    "country": "PL"
+  },
+  {
+    "name": "Warsaw Radom Airport",
+    "city": "Radom",
+    "iata": "RDO",
+    "country": "PL"
+  },
+  {
+    "name": "Rzeszów-Jasionka Airport",
+    "city": "Jasionka",
+    "iata": "RZE",
+    "country": "PL"
+  },
+  {
+    "name": "Solidarity Szczecin–Goleniów Airport",
+    "city": "Glewice",
+    "iata": "SZZ",
+    "country": "PL"
+  },
+  {
+    "name": "Olsztyn-Mazury Airport",
+    "city": "Szymany",
+    "iata": "SZY",
+    "country": "PL"
+  },
+  {
+    "name": "Warsaw Chopin Airport",
+    "city": "Warsaw",
+    "iata": "WAW",
+    "country": "PL"
+  },
+  {
+    "name": "Copernicus Wrocław Airport",
+    "city": "Wrocław",
+    "iata": "WRO",
+    "country": "PL"
+  },
+  {
+    "name": "Zielona Góra-Babimost Airport",
+    "city": "Nowe Kramsko",
+    "iata": "IEG",
+    "country": "PL"
+  },
+  {
+    "name": "Spangdahlem Air Base",
+    "city": "Trier",
+    "iata": "SPM",
+    "country": "DE"
+  },
+  {
+    "name": "Ramstein Air Base",
+    "city": "Ramstein-Miesenbach",
+    "iata": "RMS",
+    "country": "DE"
+  },
+  {
+    "name": "Fritzlar Army Airfield",
+    "city": "Fritzlar",
+    "iata": "FRZ",
+    "country": "DE"
+  },
+  {
+    "name": "Illesheim Army Heliport",
+    "city": "Illesheim",
+    "iata": "ILH",
+    "country": "DE"
+  },
+  {
+    "name": "Kitzingen Airfield",
+    "city": "Kitzingen",
+    "iata": "KZG",
+    "country": "DE"
+  },
+  {
+    "name": "Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",
+    "city": "Wurster Nordseeküste",
+    "iata": "FCN",
+    "country": "DE"
+  },
+  {
+    "name": "Geilenkirchen Air Base",
+    "city": "Geilenkirchen",
+    "iata": "GKE",
+    "country": "DE"
+  },
+  {
+    "name": "Rostock-Laage Airport",
+    "city": "Laage",
+    "iata": "RLG",
+    "country": "DE"
+  },
+  {
+    "name": "Schleswig Air Base",
+    "city": "Jagel",
+    "iata": "WBG",
+    "country": "DE"
+  },
+  {
+    "name": "Wiesbaden Army Airfield",
+    "city": "Wiesbaden",
+    "iata": "WIE",
+    "country": "DE"
+  },
+  {
+    "name": "Ingolstadt Manching Airport",
+    "city": "Manching",
+    "iata": "IGS",
+    "country": "DE"
+  },
+  {
+    "name": "Dieppe-Saint-Aubin Airport",
+    "city": "Saint-Aubin-sur-Scie",
+    "iata": "DPE",
+    "country": "FR"
+  },
+  {
+    "name": "Calais-Dunkerque Airport",
+    "city": "Marck",
+    "iata": "CQF",
+    "country": "FR"
+  },
+  {
+    "name": "Albert-Picardie Airport",
+    "city": "Méaulte, Somme",
+    "iata": "BYF",
+    "country": "FR"
+  },
+  {
+    "name": "Le Touquet-Côte d'Opale Airport",
+    "city": "Le Touquet-Paris-Plage",
+    "iata": "LTQ",
+    "country": "FR"
+  },
+  {
+    "name": "Agen-La Garenne Airport",
+    "city": "Agen/La Garenne",
+    "iata": "AGF",
+    "country": "FR"
+  },
+  {
+    "name": "Bordeaux-Mérignac Airport",
+    "city": "Bordeaux/Mérignac",
+    "iata": "BOD",
+    "country": "FR"
+  },
+  {
+    "name": "Bergerac Dordogne Périgord Airport",
+    "city": "Bergerac/Roumanière",
+    "iata": "EGC",
+    "country": "FR"
+  },
+  {
+    "name": "Cognac-Châteaubernard (BA 709) Air Base",
+    "city": "Cognac/Châteaubernard",
+    "iata": "CNG",
+    "country": "FR"
+  },
+  {
+    "name": "La Rochelle-Île de Ré Airport",
+    "city": "La Rochelle/Île de Ré",
+    "iata": "LRH",
+    "country": "FR"
+  },
+  {
+    "name": "Poitiers-Biard Airport",
+    "city": "Poitiers/Biard",
+    "iata": "PIS",
+    "country": "FR"
+  },
+  {
+    "name": "Montluçon-Guéret Airport",
+    "city": "Lépaud, Creuse",
+    "iata": "MCU",
+    "country": "FR"
+  },
+  {
+    "name": "Limoges Airport",
+    "city": "Limoges/Bellegarde",
+    "iata": "LIG",
+    "country": "FR"
+  },
+  {
+    "name": "Niort - Marais Poitevin Airport",
+    "city": "Niort/Souché",
+    "iata": "NIT",
+    "country": "FR"
+  },
+  {
+    "name": "Toulouse-Blagnac Airport",
+    "city": "Toulouse/Blagnac",
+    "iata": "TLS",
+    "country": "FR"
+  },
+  {
+    "name": "Pau Pyrénées Airport",
+    "city": "Pau/Pyrénées (Uzein)",
+    "iata": "PUF",
+    "country": "FR"
+  },
+  {
+    "name": "Tarbes-Lourdes-Pyrénées Airport",
+    "city": "Tarbes/Lourdes/Pyrénées",
+    "iata": "LDE",
+    "country": "FR"
+  },
+  {
+    "name": "Angoulême-Brie-Champniers Airport",
+    "city": "Angoulême/Brie/Champniers",
+    "iata": "ANG",
+    "country": "FR"
+  },
+  {
+    "name": "Périgueux-Bassillac Airport",
+    "city": "Périgueux/Bassillac",
+    "iata": "PGX",
+    "country": "FR"
+  },
+  {
+    "name": "Biarritz-Anglet-Bayonne Airport",
+    "city": "Biarritz/Anglet/Bayonne",
+    "iata": "BIQ",
+    "country": "FR"
+  },
+  {
+    "name": "Aérodrome de Cahors-Lalbenque",
+    "city": "Cahors/Lalbenque",
+    "iata": "ZAO",
+    "country": "FR"
+  },
+  {
+    "name": "Albi-Le Séquestre Airport",
+    "city": "Albi/Le Séquestre",
+    "iata": "LBI",
+    "country": "FR"
+  },
+  {
+    "name": "Castres-Mazamet Airport",
+    "city": "Castres/Mazamet",
+    "iata": "DCM",
+    "country": "FR"
+  },
+  {
+    "name": "Rodez–Aveyron Airport",
+    "city": "Rodez/Marcillac",
+    "iata": "RDZ",
+    "country": "FR"
+  },
+  {
+    "name": "Royan-Médis Airport",
+    "city": "Royan/Médis",
+    "iata": "RYN",
+    "country": "FR"
+  },
+  {
+    "name": "Rochefort-Saint-Agnant (BA 721) Airport",
+    "city": "Rochefort/Saint-Agnant",
+    "iata": "RCO",
+    "country": "FR"
+  },
+  {
+    "name": "Aérodrome de Belle Île",
+    "city": "Bangor",
+    "iata": "BIC",
+    "country": "FR"
+  },
+  {
+    "name": "Ouessant Airport",
+    "city": "Ushant",
+    "iata": "OUI",
+    "country": "FR"
+  },
+  {
+    "name": "Île d'Yeu Airport",
+    "city": "Île d'Yeu",
+    "iata": "IDY",
+    "country": "FR"
+  },
+  {
+    "name": "Colmar-Houssen Airport",
+    "city": "Colmar, Haut-Rhin",
+    "iata": "CMR",
+    "country": "FR"
+  },
+  {
+    "name": "Dole-Jura Airport",
+    "city": "Tavaux, Jura",
+    "iata": "DLE",
+    "country": "FR"
+  },
+  {
+    "name": "Megève Altiport",
+    "city": "Megève",
+    "iata": "MVV",
+    "country": "FR"
+  },
+  {
+    "name": "Aubenas-South Ardèche Airport",
+    "city": "Lanas, Ardèche",
+    "iata": "OBS",
+    "country": "FR"
+  },
+  {
+    "name": "Le Puy-Loudes Airfield",
+    "city": "Chaspuzac, Haute-Loire",
+    "iata": "LPY",
+    "country": "FR"
+  },
+  {
+    "name": "L'Alpe d'Huez - Henri Giraud Altiport",
+    "city": "Huez, Isère",
+    "iata": "AHZ",
+    "country": "FR"
+  },
+  {
+    "name": "Metz-Nancy-Lorraine Airport",
+    "city": "Goin",
+    "iata": "ETZ",
+    "country": "FR"
+  },
+  {
+    "name": "Angers-Loire Airport",
+    "city": "Marcé, Maine-et-Loire",
+    "iata": "ANE",
+    "country": "FR"
+  },
+  {
+    "name": "Bastia-Poretta Airport",
+    "city": "Bastia/Poretta",
+    "iata": "BIA",
+    "country": "FR"
+  },
+  {
+    "name": "Calvi-Sainte-Catherine Airport",
+    "city": "Calvi/Sainte-Catherine",
+    "iata": "CLY",
+    "country": "FR"
+  },
+  {
+    "name": "Figari Sud-Corse Airport",
+    "city": "Figari Sud-Corse",
+    "iata": "FSC",
+    "country": "FR"
+  },
+  {
+    "name": "Ajaccio-Napoléon Bonaparte Airport",
+    "city": "Ajaccio/Napoléon Bonaparte",
+    "iata": "AJA",
+    "country": "FR"
+  },
+  {
+    "name": "Propriano Airport",
+    "city": "Propriano",
+    "iata": "PRP",
+    "country": "FR"
+  },
+  {
+    "name": "Solenzara (BA 126) Air Base",
+    "city": "Solenzara",
+    "iata": "SOZ",
+    "country": "FR"
+  },
+  {
+    "name": "Méribel Altiport",
+    "city": "Les Allues",
+    "iata": "MFX",
+    "country": "FR"
+  },
+  {
+    "name": "Auxerre-Branches Airport",
+    "city": "Appoigny, Yonne",
+    "iata": "AUF",
+    "country": "FR"
+  },
+  {
+    "name": "Chambéry Savoie Mont Blanc Airport",
+    "city": "Viviers-du-Lac",
+    "iata": "CMF",
+    "country": "FR"
+  },
+  {
+    "name": "Clermont-Ferrand Auvergne Airport",
+    "city": "Aulnat, Puy-de-Dôme",
+    "iata": "CFE",
+    "country": "FR"
+  },
+  {
+    "name": "Bourges Airport",
+    "city": "Bourges, Cher",
+    "iata": "BOU",
+    "country": "FR"
+  },
+  {
+    "name": "Courchevel Altiport",
+    "city": "Saint-Bon",
+    "iata": "CVF",
+    "country": "FR"
+  },
+  {
+    "name": "Lyon Saint-Exupéry Airport",
+    "city": "Colombier-Saugnieu, Rhône",
+    "iata": "LYS",
+    "country": "FR"
+  },
+  {
+    "name": "Saint-Yan Airport",
+    "city": "L'Hôpital-le-Mercier, Saône-et-Loire",
+    "iata": "SYT",
+    "country": "FR"
+  },
+  {
+    "name": "Roanne-Renaison Airport",
+    "city": "Saint-Léger-sur-Roanne",
+    "iata": "RNE",
+    "country": "FR"
+  },
+  {
+    "name": "Annecy Haute-Savoie Mont Blanc Airport",
+    "city": "Epagny Metz-Tessy",
+    "iata": "NCY",
+    "country": "FR"
+  },
+  {
+    "name": "Grenoble Alpes Isère Airport",
+    "city": "Saint-Étienne-de-Saint-Geoirs, Isère",
+    "iata": "GNB",
+    "country": "FR"
+  },
+  {
+    "name": "Valence-Chabeuil Airport",
+    "city": "Chabeuil, Drôme",
+    "iata": "VAF",
+    "country": "FR"
+  },
+  {
+    "name": "Vichy-Charmeil Airport",
+    "city": "Charmeil, Allier",
+    "iata": "VHY",
+    "country": "FR"
+  },
+  {
+    "name": "Aurillac Airport",
+    "city": "Aurillac",
+    "iata": "AUR",
+    "country": "FR"
+  },
+  {
+    "name": "Châteauroux-Déols Marcel Dassault Airport",
+    "city": "Déols, Indre",
+    "iata": "CHR",
+    "country": "FR"
+  },
+  {
+    "name": "Lyon Bron Airport",
+    "city": "Chassieu, Lyon",
+    "iata": "LYN",
+    "country": "FR"
+  },
+  {
+    "name": "Cannes-Mandelieu Airport",
+    "city": "Cannes, Alpes-Maritimes",
+    "iata": "CEQ",
+    "country": "FR"
+  },
+  {
+    "name": "Saint-Étienne-Bouthéon Airport",
+    "city": "Andrézieux-Bouthéon, Loire",
+    "iata": "EBU",
+    "country": "FR"
+  },
+  {
+    "name": "Carcassonne Airport",
+    "city": "Carcassonne/Salvaza",
+    "iata": "CCF",
+    "country": "FR"
+  },
+  {
+    "name": "Marseille Provence Airport",
+    "city": "Marignane, Bouches-du-Rhône",
+    "iata": "MRS",
+    "country": "FR"
+  },
+  {
+    "name": "Nice-Côte d'Azur Airport",
+    "city": "Nice, Alpes-Maritimes",
+    "iata": "NCE",
+    "country": "FR"
+  },
+  {
+    "name": "Perpignan-Rivesaltes (Llabanère) Airport",
+    "city": "Perpignan/Rivesaltes",
+    "iata": "PGF",
+    "country": "FR"
+  },
+  {
+    "name": "Le Castellet Airport",
+    "city": "Le Castellet, Var",
+    "iata": "CTT",
+    "country": "FR"
+  },
+  {
+    "name": "Barcelonnette - Saint-Pons Airfield",
+    "city": "Saint-Pons, Alpes-de-Haute-Provence",
+    "iata": "BAE",
+    "country": "FR"
+  },
+  {
+    "name": "Montpellier-Méditerranée Airport",
+    "city": "Montpellier/Méditerranée",
+    "iata": "MPL",
+    "country": "FR"
+  },
+  {
+    "name": "Béziers-Vias Airport",
+    "city": "Béziers/Vias",
+    "iata": "BZR",
+    "country": "FR"
+  },
+  {
+    "name": "Avignon-Caumont Airport",
+    "city": "Avignon, Vaucluse",
+    "iata": "AVN",
+    "country": "FR"
+  },
+  {
+    "name": "Gap-Tallard Airfield",
+    "city": "Tallard, Hautes-Alpes",
+    "iata": "GAT",
+    "country": "FR"
+  },
+  {
+    "name": "Mende-Brenoux Airfield",
+    "city": "Mende/Brénoux",
+    "iata": "MEN",
+    "country": "FR"
+  },
+  {
+    "name": "Mont-Dauphin Saint-Crépin Airfield",
+    "city": "Saint-Crépin, Hautes-Alpes",
+    "iata": "SCP",
+    "country": "FR"
+  },
+  {
+    "name": "Paris-Beauvais Airport",
+    "city": "Tillé",
+    "iata": "BVA",
+    "country": "FR"
+  },
+  {
+    "name": "Évreux-Fauville (BA 105) Air Base",
+    "city": "Fauville, Eure",
+    "iata": "EVX",
+    "country": "FR"
+  },
+  {
+    "name": "Le Havre-Octeville Airport",
+    "city": "Le Havre",
+    "iata": "LEH",
+    "country": "FR"
+  },
+  {
+    "name": "Châlons-Vatry Airport",
+    "city": "Bussy-Lettrée",
+    "iata": "XCR",
+    "country": "FR"
+  },
+  {
+    "name": "Les Sables-d'Olonne Talmont Airport",
+    "city": "Les Sables-d'Olonne",
+    "iata": "LSO",
+    "country": "FR"
+  },
+  {
+    "name": "Rouen Vallée de Seine Airport",
+    "city": "Boos",
+    "iata": "URO",
+    "country": "FR"
+  },
+  {
+    "name": "Tours Val de Loire Airport",
+    "city": "Tours, Indre-et-Loire",
+    "iata": "TUF",
+    "country": "FR"
+  },
+  {
+    "name": "Cholet Le Pontreau Airfield",
+    "city": "Cholet/Le Pontreau",
+    "iata": "CET",
+    "country": "FR"
+  },
+  {
+    "name": "Laval-Entrammes Airport",
+    "city": "Laval, Mayenne",
+    "iata": "LVA",
+    "country": "FR"
+  },
+  {
+    "name": "Orléans–Saint-Denis-de-l'Hôtel Airport",
+    "city": "Saint-Denis-de-l'Hôtel, Loiret",
+    "iata": "ORE",
+    "country": "FR"
+  },
+  {
+    "name": "Paris-Le Bourget Airport",
+    "city": "Paris (Le Bourget, Seine-Saint-Denis)",
+    "iata": "LBG",
+    "country": "FR"
+  },
+  {
+    "name": "Creil Air Base",
+    "city": "Creil",
+    "iata": "CSF",
+    "country": "FR"
+  },
+  {
+    "name": "Charles de Gaulle International Airport",
+    "city": "Paris (Roissy-en-France, Val-d'Oise)",
+    "iata": "CDG",
+    "country": "FR"
+  },
+  {
+    "name": "Toussus-le-Noble Airport",
+    "city": "Toussus-le-Noble, Yvelines",
+    "iata": "TNF",
+    "country": "FR"
+  },
+  {
+    "name": "Paris-Orly Airport",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "iata": "ORY",
+    "country": "FR"
+  },
+  {
+    "name": "Pontoise-Cormeilles Aerodrome",
+    "city": "Cormeilles-en-Vexin, Val-d'Oise",
+    "iata": "POX",
+    "country": "FR"
+  },
+  {
+    "name": "Vélizy-Villacoublay Air Base",
+    "city": "Vélizy-Villacoublay, Yvelines",
+    "iata": "VIY",
+    "country": "FR"
+  },
+  {
+    "name": "Nevers-Fourchambault Airport",
+    "city": "Marzy, Nièvre",
+    "iata": "NVS",
+    "country": "FR"
+  },
+  {
+    "name": "Lille Airport",
+    "city": "Lesquin",
+    "iata": "LIL",
+    "country": "FR"
+  },
+  {
+    "name": "Merville-Calonne Airport",
+    "city": "Merville, Nord",
+    "iata": "HZB",
+    "country": "FR"
+  },
+  {
+    "name": "Brest Bretagne Airport",
+    "city": "Brest/Guipavas",
+    "iata": "BES",
+    "country": "FR"
+  },
+  {
+    "name": "Cherbourg-Maupertus Airport",
+    "city": "Gonneville-Le Theil, Manche",
+    "iata": "CER",
+    "country": "FR"
+  },
+  {
+    "name": "Dinard-Pleurtuit-Saint-Malo Airport",
+    "city": "Pleurtuit, Ille-et-Vilaine",
+    "iata": "DNR",
+    "country": "FR"
+  },
+  {
+    "name": "La Baule-Escoublac Airport",
+    "city": "La Baule-Escoublac",
+    "iata": "LBY",
+    "country": "FR"
+  },
+  {
+    "name": "Granville Airport",
+    "city": "Bréville-sur-Mer, Manche",
+    "iata": "GFR",
+    "country": "FR"
+  },
+  {
+    "name": "Deauville-Normandie Airport",
+    "city": "Deauville, Calvados",
+    "iata": "DOL",
+    "country": "FR"
+  },
+  {
+    "name": "Lorient South Brittany (Bretagne Sud) Airport",
+    "city": "Lorient/Lann/Bihoué",
+    "iata": "LRT",
+    "country": "FR"
+  },
+  {
+    "name": "La Roche-sur-Yon Airport",
+    "city": "La Roche-sur-Yon/Les Ajoncs",
+    "iata": "EDM",
+    "country": "FR"
+  },
+  {
+    "name": "Landivisiau Air Base",
+    "city": "Landivisiau",
+    "iata": "LDV",
+    "country": "FR"
+  },
+  {
+    "name": "Caen-Carpiquet Airport",
+    "city": "Carpiquet, Calvados",
+    "iata": "CFR",
+    "country": "FR"
+  },
+  {
+    "name": "Le Mans-Arnage Airport",
+    "city": "Le Mans, Sarthe",
+    "iata": "LME",
+    "country": "FR"
+  },
+  {
+    "name": "Rennes-Saint-Jacques Airport",
+    "city": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine",
+    "iata": "RNS",
+    "country": "FR"
+  },
+  {
+    "name": "Lannion-Côte de Granit Airport",
+    "city": "Lannion",
+    "iata": "LAI",
+    "country": "FR"
+  },
+  {
+    "name": "Quimper-Cornouaille Airport",
+    "city": "Quimper/Pluguffan",
+    "iata": "UIP",
+    "country": "FR"
+  },
+  {
+    "name": "Nantes Atlantique Airport",
+    "city": "Nantes",
+    "iata": "NTE",
+    "country": "FR"
+  },
+  {
+    "name": "Saint-Brieuc-Armor Airport",
+    "city": "Trémuson, Côtes-d'Armor",
+    "iata": "SBK",
+    "country": "FR"
+  },
+  {
+    "name": "Morlaix-Ploujean Airport",
+    "city": "Morlaix/Ploujean",
+    "iata": "MXN",
+    "country": "FR"
+  },
+  {
+    "name": "Vannes-Meucon Airport",
+    "city": "Vannes/Meucon",
+    "iata": "VNE",
+    "country": "FR"
+  },
+  {
+    "name": "Saint-Nazaire-Montoir Airport",
+    "city": "Saint-Nazaire/Montoir",
+    "iata": "SNR",
+    "country": "FR"
+  },
+  {
+    "name": "EuroAirport Basel-Mulhouse-Freiburg",
+    "city": "Saint-Louis",
+    "iata": "BSL",
+    "country": "FR"
+  },
+  {
+    "name": "Dijon-Bourgogne Airport",
+    "city": "Ouges, Côte-d'Or",
+    "iata": "DIJ",
+    "country": "FR"
+  },
+  {
+    "name": "Épinal-Mirecourt Airport",
+    "city": "Juvaincourt, Vosges",
+    "iata": "EPL",
+    "country": "FR"
+  },
+  {
+    "name": "Brive-Souillac Airport",
+    "city": "Brive la Gaillarde",
+    "iata": "BVE",
+    "country": "FR"
+  },
+  {
+    "name": "Nancy-Essey Airport",
+    "city": "Tomblaine, Meurthe-et-Moselle",
+    "iata": "ENC",
+    "country": "FR"
+  },
+  {
+    "name": "Strasbourg Airport",
+    "city": "Strasbourg",
+    "iata": "SXB",
+    "country": "FR"
+  },
+  {
+    "name": "Toulon-Hyères Airport",
+    "city": "Hyères, Var",
+    "iata": "TLN",
+    "country": "FR"
+  },
+  {
+    "name": "Nîmes-Arles-Camargue Airport",
+    "city": "Nîmes/Garons",
+    "iata": "FNI",
+    "country": "FR"
+  },
+  {
+    "name": "La Môle-Saint-Tropez Airport",
+    "city": "La Môle, Var",
+    "iata": "LTT",
+    "country": "FR"
+  },
+  {
+    "name": "České Budějovice South Bohemian Airport",
+    "city": "České Budějovice",
+    "iata": "JCL",
+    "country": "CZ"
+  },
+  {
+    "name": "Kunovice Airport",
+    "city": "Uherské Hradiště",
+    "iata": "UHE",
+    "country": "CZ"
+  },
+  {
+    "name": "Karlovy Vary Airport",
+    "city": "Karlovy Vary",
+    "iata": "KLV",
+    "country": "CZ"
+  },
+  {
+    "name": "Mnichovo Hradiště Airport",
+    "city": "Mnichovo Hradiště",
+    "iata": "HRA",
+    "country": "CZ"
+  },
+  {
+    "name": "Ostrava Leos Janáček Airport",
+    "city": "Mošnov",
+    "iata": "OSR",
+    "country": "CZ"
+  },
+  {
+    "name": "Olomouc Airport",
+    "city": "Olomouc",
+    "iata": "OLO",
+    "country": "CZ"
+  },
+  {
+    "name": "Pardubice Airport",
+    "city": "Pardubice",
+    "iata": "PED",
+    "country": "CZ"
+  },
+  {
+    "name": "Přerov Air Base",
+    "city": "Přerov",
+    "iata": "PRV",
+    "country": "CZ"
+  },
+  {
+    "name": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "iata": "PRG",
+    "country": "CZ"
+  },
+  {
+    "name": "Brno-Tuřany Airport",
+    "city": "Brno",
+    "iata": "BRQ",
+    "country": "CZ"
+  },
+  {
+    "name": "Vodochody Airport",
+    "city": "Vodochody",
+    "iata": "VOD",
+    "country": "CZ"
+  },
+  {
+    "name": "Zábřeh Dolní Benešov Airfield",
+    "city": "Dolní Benešov",
+    "iata": "ZBE",
+    "country": "CZ"
+  },
+  {
+    "name": "Sankt Anton am Arlberg Heliport",
+    "city": "Sankt Anton am Arlberg",
+    "iata": "ANT",
+    "country": "AT"
+  },
+  {
+    "name": "Hohenems-Dornbirn Airfield",
+    "city": "Hohenems",
+    "iata": "HOH",
+    "country": "AT"
+  },
+  {
+    "name": "Graz Airport",
+    "city": "Feldkirchen bei Graz",
+    "iata": "GRZ",
+    "country": "AT"
+  },
+  {
+    "name": "Innsbruck Airport",
+    "city": "Innsbruck",
+    "iata": "INN",
+    "country": "AT"
+  },
+  {
+    "name": "Klagenfurt Airport",
+    "city": "Klagenfurt am Wörthersee",
+    "iata": "KLU",
+    "country": "AT"
+  },
+  {
+    "name": "Linz-Hörsching Airport / Vogler Air Base",
+    "city": "Linz",
+    "iata": "LNZ",
+    "country": "AT"
+  },
+  {
+    "name": "Salzburg Airport",
+    "city": "Salzburg",
+    "iata": "SZG",
+    "country": "AT"
+  },
+  {
+    "name": "Vienna International Airport",
+    "city": "Vienna",
+    "iata": "VIE",
+    "country": "AT"
+  },
+  {
+    "name": "Geneva Cointrin International Airport",
+    "city": "Geneva",
+    "iata": "GVA",
+    "country": "CH"
+  },
+  {
+    "name": "Sion Airport",
+    "city": "Sion",
+    "iata": "SIR",
+    "country": "CH"
+  },
+  {
+    "name": "Emmen Air Base",
+    "city": "Emmen",
+    "iata": "EML",
+    "country": "CH"
+  },
+  {
+    "name": "Payerne Air Base",
+    "city": "Payerne",
+    "iata": "VIP",
+    "country": "CH"
+  },
+  {
+    "name": "Lugano Airport",
+    "city": "Agno",
+    "iata": "LUG",
+    "country": "CH"
+  },
+  {
+    "name": "Bern Airport",
+    "city": "Bern",
+    "iata": "BRN",
+    "country": "CH"
+  },
+  {
+    "name": "Buochs Airport",
+    "city": "Buochs",
+    "iata": "BXO",
+    "country": "CH"
+  },
+  {
+    "name": "Zürich Airport",
+    "city": "Zurich",
+    "iata": "ZRH",
+    "country": "CH"
+  },
+  {
+    "name": "Sankt Gallen Altenrhein Airport",
+    "city": "St. Gallen",
+    "iata": "ACH",
+    "country": "CH"
+  },
+  {
+    "name": "Samedan Airport",
+    "city": "Samedan",
+    "iata": "SMV",
+    "country": "CH"
+  }
+]
